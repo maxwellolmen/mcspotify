@@ -1,0 +1,8 @@
+com\maxwellolmen\mcspotify\ui\SongCreation$1.class
+com\maxwellolmen\mcspotify\song\SongPlayer.class
+com\maxwellolmen\mcspotify\song\NoteStrike.class
+com\maxwellolmen\mcspotify\ui\SongCreation.class
+com\maxwellolmen\mcspotify\command\SongCommand.class
+com\maxwellolmen\mcspotify\song\Song.class
+com\maxwellolmen\mcspotify\song\SongManager.class
+com\maxwellolmen\mcspotify\MCSpotify.class
